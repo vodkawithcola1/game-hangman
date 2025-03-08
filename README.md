@@ -23,7 +23,7 @@ Can you save yourself from the gallows?
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/hangman-game.git
+git clone https://github.com/vodkawithcola1/hangman-game.git
 cd hangman-game
 ```
 2. Run the script:
